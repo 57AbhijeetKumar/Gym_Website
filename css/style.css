@@ -1,0 +1,79 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&display=swap" rel="stylesheet">*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(44, 42, 42);
+    backface-visibility: visible;
+}
+.nav{
+    /* border: 2px solid red; */
+    display: flex;
+    height: 100px;
+    background-color: none;
+}
+.nav h1{
+    color: white;
+    margin: 26px 130px;
+    font-size: 45px;
+    /* font-family: 'Baloo Bhaijaan 2', cursive; */
+}
+.nav h2{
+    color: red;
+    margin: 28px -122px;
+    font-size: 45px;
+    /* font-family: 'Baloo Bhaijaan 2', cursive; */
+}
+/* header{
+    margin: 20px auto;
+} */
+.item{
+    display: flex;
+    margin: 3px 169px;
+}
+.items{
+    /* border: 2px solid red; */
+    height: 30px;
+    margin: 51px 15px;
+    font-size: 20px;
+    /* padding: 5px 5px 23px 11px; */
+    font-size: 29px;
+    /* font-family: 'Baloo Bhaijaan 2', cursive; */
+}
+.items a{
+    text-decoration: none;
+    color: white;
+}
+.item a:hover{
+    color: red;
+}
+#item1{
+
+}
+#item2{
+    
+}
+#item3{
+    
+}
+#item4{
+    
+}
+#item5{
+    
+}
+#item6{
+    
+}
+.btn{
+    border: 2px solid red;
+    background-color: red;
+    color: white;
+    font-size: 22px;
+    padding-top: 5px;
+    /* border-radius: 10px; */
+    cursor: pointer;
+}
